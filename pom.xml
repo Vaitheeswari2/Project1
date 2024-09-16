@@ -23,6 +23,11 @@
     <version>1.18.32</version>
     <scope>provided</scope>
 </dependency>
+<dependency>
+			<groupId>net.masterthought</groupId>
+			<artifactId>cucumber-reporting</artifactId>
+			<version>5.8.0</version>
+		</dependency>
 
 <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
 <dependency>
